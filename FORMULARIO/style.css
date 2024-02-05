@@ -17,7 +17,7 @@ form {
 }
 
 form h2 {
-    color: #14f9a6;
+    color: #ffffff;
     font-size: 25px; /* Corregido: 'font-size' en lugar de 'font' y valor de tamaño corregido */
 }
 
@@ -31,7 +31,7 @@ form h2 {
 }
 
 .form-txt a:hover {
-    color: #51967d;
+    color: #65b2e6;
 }
 
 .input-group {
@@ -55,18 +55,18 @@ input, textarea {
 }
 
 :focus {
-    outline: 1px solid #14f9a6;
+    outline: 1px solid #3791eb;
 }
 
 .btn {
-    background-color: #14f9a6;
+    background-color: #3791eb;
     color: #146031;
     font-size: 17px;
     cursor: pointer;
 }
 
 .btn:hover {
-    background-color: #14ea9b;
+    background-color: #3791eb;
 }
 
 @media (max-width: 991px) {
